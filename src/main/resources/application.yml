@@ -1,0 +1,10 @@
+server:
+  port: 83
+info:
+  component: Booking Attraction Service
+spring:
+  application:
+    name: booking-attraction-service
+  sleuth:
+    sampler:
+      probability: 1.0
